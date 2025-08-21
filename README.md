@@ -1,7 +1,7 @@
 # Sports BI Project: A Data Analysis Case Study
 
 ## Executive Summary
-This project provides a comprehensive analysis of the Sporty Group's business performance, offering **data-driven insights** to enhance core operations and inform strategic decisions. By building a complete **BI pipeline**, a simulated dataset was generated and loaded into a MySQL database via an automated ETL process. This data was then analyzed using **SQL**, revealing key performance indicators (KPIs), critical user behavior patterns, and the results of a simulated A/B test. The final insights were compiled into an interactive **Metabase dashboard** and this report, serving as a valuable tool for stakeholders to quickly assess business health and capitalize on new opportunities.
+This project provides a comprehensive analysis of the Sporty Group's business performance, offering data-driven insights to enhance core operations and inform strategic decisions. By building a complete BI pipeline, a simulated dataset was generated and loaded into a MySQL database via an automated ETL process. This data was then analyzed using SQL, revealing key performance indicators (KPIs), critical user behavior patterns, and the results of a simulated A/B test. The final insights were compiled into an interactive Metabase dashboard and this report, serving as a valuable tool for stakeholders to quickly assess business health and capitalize on new opportunities.
 
 ## Project Methodology
 
@@ -21,18 +21,17 @@ This project provides a comprehensive analysis of the Sporty Group's business pe
 - **Description:** The final insights were transformed into an interactive dashboard for business stakeholders.
 - **Tool:** Metabase
 
-![alt text](image.jpg)
+![alt text](screenshots/kpis.PNG)
+![alt text](screenshots/timeseries.PNG)
 
 [Metabase Dashboard](http://localhost:3000/public/dashboard/3a89895e-eba0-4f99-b1e8-ec4cf18a5884)
 
 ## Key Insights & Recommendations
 
 - **Daily Profit & Active Users**
-[]
-  
 - **Top 10 Most Profitable Users** 
-- **KPIs by Sport:**
-- **A/B Test Analysis:**
+- **KPIs by Sport**
+- **A/B Test Analysis**
 
 ## Tools & Technologies Used
 * **Python**
@@ -42,6 +41,6 @@ This project provides a comprehensive analysis of the Sporty Group's business pe
 * **GitHub**
 
 ## 🔗 Project Files & Report
-- **SQL Queries:** ``
-- **ETL Script:** ``
+- **SQL Queries:**
+- **ETL Script:** 
 - **Full Project Report (PDF):** [https://docs.google.com/document/d/1CNaXOQayFflpz2lFsyG3HCGE4I7RwdYlUaX--w5kgUY/edit?usp=sharing]
