@@ -46,6 +46,6 @@ This project provides a comprehensive analysis of the Sporty Group's business pe
 * **GitHub**
 
 ## Project Files & Report
-- **SQL Queries:** [](MySQL_queries)
+- **SQL Queries:** [MySQL_queries]
 - **ETL Script:** `scripts.py/etl_script.py`
 - **Full Project Report (PDF):** [https://docs.google.com/document/d/1CNaXOQayFflpz2lFsyG3HCGE4I7RwdYlUaX--w5kgUY/edit?usp=sharing]
