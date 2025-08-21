@@ -13,6 +13,8 @@ This project provides a comprehensive analysis of the Sporty Group's business pe
 - **Description:** Complex SQL queries were used to extract meaningful insights and address critical business questions.
 
   ![alt text](screenshots/mysql_kpi.PNG)
+
+  ![alt text](screenshots/mysql_user_behavior.PNG)
   
 - **Key Analyses:**
     - **Time-Series Analysis:** Tracking daily profit and active users.
