@@ -11,6 +11,7 @@ This project provides a comprehensive analysis of the Sporty Group's business pe
 
 ### 2. Data Analysis (SQL)
 - **Description:** Complex SQL queries were used to extract meaningful insights and address critical business questions.
+![alt text]()
 - **Key Analyses:**
     - **Time-Series Analysis:** Tracking daily profit and active users.
     - **KPI Analysis:** Calculating key metrics by sport.
@@ -41,6 +42,6 @@ This project provides a comprehensive analysis of the Sporty Group's business pe
 * **GitHub**
 
 ## Project Files & Report
-- **SQL Queries:** []()
+- **SQL Queries:** [](MySQL_queries)
 - **ETL Script:** `scripts.py/etl_script.py`
 - **Full Project Report (PDF):** [https://docs.google.com/document/d/1CNaXOQayFflpz2lFsyG3HCGE4I7RwdYlUaX--w5kgUY/edit?usp=sharing]
